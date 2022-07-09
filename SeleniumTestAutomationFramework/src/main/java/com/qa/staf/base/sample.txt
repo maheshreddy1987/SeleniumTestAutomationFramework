@@ -1,0 +1,1 @@
+keep the java classes which has package name as com.qa.staf.base

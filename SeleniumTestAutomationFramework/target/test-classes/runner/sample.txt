@@ -1,0 +1,1 @@
+keep the testng.xml file to run suite
